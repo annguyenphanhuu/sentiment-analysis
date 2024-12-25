@@ -9,5 +9,4 @@
 - Preprocess Data
 - Augmented Data
 - Training
-- Compare with others method
 - Implement with FastAPI
